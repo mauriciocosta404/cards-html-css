@@ -21,7 +21,7 @@
     transition: 0.3s;
 }
 .card-title1{
-    background: url(pexels-scott-webb-1029639.jpg);
+    background: url(images/pexels-george-becker-126658.jpg);
     width: 100%;
     height: 250px;
     background-size: cover;
@@ -30,7 +30,7 @@
 }
 
 .card-title2{
-    background: url(pexels-scott-webb-1029639.jpg);
+    background: url(images/pexels-pixabay-414144.jpg);
     width: 100%;
     height: 250px;
     background-size: cover;
@@ -39,7 +39,7 @@
 }
 
 .card-title3{
-    background: url(pexels-scott-webb-1029639.jpg);
+    background: url(images/pexels-scott-webb-1029639.jpg);
     width: 100%;
     height: 250px;
     background-size: cover;
